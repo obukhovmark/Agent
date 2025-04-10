@@ -7,4 +7,4 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return {"message": "AI Concierge is running"}
+    return {"message": "LuxAi Concierge is running"}
